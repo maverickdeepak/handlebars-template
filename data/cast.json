@@ -1,0 +1,63 @@
+{
+	"characters": [{
+			"characterName": "Addam Marbrand",
+			"actorName": "B.J. Hogg",
+			"houseName": "Targaryen",
+			"characterImageThumb": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRmNWVhNTctOGJlZC00ZjVlLThkY2MtODU3Y2I2Njc1YzZjL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+			"royal": true,
+			"contact": 9876543210,
+			"killedBy":[
+				"Gregor Clegane"
+			 ],
+			 "bio": "Ullamcorper a lacus vestibulum sed arcu non. Cras tincidunt lobortis feugiat vivamus at augue. Massa placerat duis ultricies lacus sed turpis tincidunt id. Et malesuada fames ac turpis egestas sed tempus. Non enim praesent elementum facilisis leo vel. Ac feugiat sed lectus vestibulum mattis ullamcorper. Auctor elit sed vulputate mi. Tortor posuere ac ut consequat. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. "
+		},
+		{	
+			"characterName": "Aegon Targaryen",
+			"houseName": "Targaryen",
+			"characterImageThumb": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmRkMDYxYjQtYTBjZi00NDZlLThmNGMtYzlhNGI1ZDE5NTJmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+			"contact": 1234567890,
+			"killedBy":[
+				"Howland Reed",
+				"Eddard Stark"
+			 ],
+			 "bio": "Volutpat sed cras ornare arcu dui vivamus. Maecenas volutpat blandit aliquam etiam erat velit. Malesuada bibendum arcu vitae elementum curabitur vitae nunc. Pharetra massa massa ultricies mi quis hendrerit dolor magna eget. Nisi porta lorem mollis aliquam. Purus gravida quis blandit turpis cursus in hac habitasse. Quis blandit turpis cursus in hac."
+		},
+		{
+			"characterName": "Aeron Greyjoy",
+			"houseName": "Greyjoy",
+			"characterImageThumb": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1._SX100_SY140_.jpg",
+			"actorName": "Michael Feast",
+			"royal": true,
+			"contact": 12010201551,
+			"killedBy":[
+				"Wights"
+			 ],
+			 "bio": "Egestas quis ipsum suspendisse ultrices. A lacus vestibulum sed arcu non odio euismod lacinia at. Ut morbi tincidunt augue interdum velit euismod. Magna fringilla urna porttitor rhoncus dolor. Sed id semper risus in hendrerit. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. In fermentum posuere urna nec tincidunt. Est velit egestas dui id. Leo urna molestie at elementum. Velit scelerisque in dictum non consectetur. Lacus sed viverra tellus in hac habitasse platea dictumst. Condimentum id venenatis a condimentum. "
+		},
+		{
+			"characterName": "Aerys II Targaryen",
+			"houseName": "Targaryen",
+			"characterImageThumb": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWQzOWViN2ItNDZhOS00MmZlLTkxZTYtZDg5NGUwMGRmYWZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+			"actorName": "David Rintoul",
+			"contact": 9876543210,
+			"killedBy":[
+				"Arya Stark"
+			 ],
+			 "bio": "Aliquet sagittis id consectetur purus ut faucibus. Ut consequat semper viverra nam libero justo. Amet facilisis magna etiam tempor orci eu lobortis elementum nibh. Varius vel pharetra vel turpis nunc eget. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Gravida dictum fusce ut placerat orci. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. In hac habitasse platea dictumst quisque sagittis purus sit amet. Bibendum neque egestas congue quisque. "
+		},
+		{
+			"characterName": "Akho",
+			"houseName": "Targaryen",
+			"characterImageThumb": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4ZDZmOGUtNGE4Ny00Y2VmLThiOGItMjk3Y2U0ZDY3OWQxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
+			"actorName": "Chuku Modu",
+			"royal": true,
+			"contact": 78450258262,
+			"killedBy":[
+				"Soldier Tom",
+				"Stannis Baratheon",
+				"Bolton Officer"
+			 ],
+			 "bio": "Ac felis donec et odio. Volutpat sed cras ornare arcu dui vivamus arcu felis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Posuere ac ut consequat semper viverra nam libero justo laoreet. Pharetra sit amet aliquam id diam maecenas ultricies mi eget. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. At lectus urna duis convallis convallis tellus id. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Facilisis volutpat est velit egestas dui id. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Felis eget velit aliquet sagittis id consectetur purus. Nec ultrices dui sapien eget mi proin sed libero. Mattis vulputate enim nulla aliquet porttitor lacus. Luctus venenatis lectus magna fringilla urna. Tristique risus nec feugiat in fermentum posuere urna nec tincidunt."
+		}
+	]
+}

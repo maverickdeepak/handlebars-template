@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handlebars</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <h1>Game of  Thrones</h1>
+    <ul class="character-list-container"></ul>
+
+    <script id="character-template" type="text/x-handlebars-template">
+        {{#each characters}}
+        <li class="character">
+        <img src="{{characterImageThumb}}" alt="" height="100px" width="100px">
+        <h2>{{characterName}}</h2>
+        <p>Actor: {{actorName}}</p>
+        <p>House: {{#boldName}}{{#toLower}}{{houseName}}{{/toLower}}{{/boldName}}</p>
+        {{#if royal}}
+        <p>Royal: {{formatName royal}}</p>
+        {{/if}}
+        <p>Killed By: {{killedBy}}</p>
+
+        <a href="./details.html?id={{@index}}" class="view-details button">View Info</a>
+        </li>
+        {{/each}}
+    </script>
+
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/8.7.1/firebase.js"></script>
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <script src="./js/handlebars.min-v4.7.7.js"></script>
+    <script src="./js/scripts.js"></script>
+</body>
+</html>
